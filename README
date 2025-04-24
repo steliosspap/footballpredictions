@@ -15,8 +15,6 @@ This project was developed as part of the Wharton High School Data Science Compe
 
 - `football_predictions.py` – main script containing data preprocessing, model training, and prediction logic
 
-> Note: For clarity and professionalism, it is recommended to rename the current file from `TheFinalCopy (2).py` to `football_predictions.py`.
-
 ## Example Output
 
 ```
