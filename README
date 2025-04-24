@@ -1,17 +1,17 @@
-# Football Predictions
+Football Predictions
 
-## Overview
+Overview
 
 - Developed a logistic regression model using `scikit-learn`
 - Applied standard preprocessing and evaluation techniques
 - Organized in a single Python script for clarity and accessibility
 - Evaluated using accuracy as the primary performance metric
 
-## File Structure
+File Structure
 
 - `football_predictions.py` – main script containing data preprocessing, model training, and prediction logic
 
-## Example Output
+Example Output
 
 ```
 Accuracy: 72.4%
@@ -19,7 +19,7 @@ Predictions on test data:
 [1, 0, 1, 1, 0, ...]
 ```
 
-## Getting Started
+Getting Started
 
 To replicate this project:
 
@@ -39,23 +39,23 @@ To replicate this project:
    python football_predictions.py
    ```
 
-## Learning Outcomes
+Learning Outcomes
 
-This was one of my first experiences developing a machine learning model from scratch. Key takeaways include:
+This was one of my first experiences (16) developing a machine learning model from scratch. Key takeaways include:
 
 - Fundamentals of data preparation and feature selection
 - Implementation of logistic regression for binary classification
 - Basic performance evaluation using test accuracy
 - Limitations and potential areas for future improvement
 
-## License
+License
 
 This repository is licensed under the MIT License. Please note that this license applies only to the code in this repository and does not extend to the dataset provided by the Wharton High School Data Science Competition.
 
-## Data Access
+Data Access
 
 The dataset used in this project was provided by the Wharton High School Data Science Competition. Due to usage restrictions, the full dataset is not included in this repository. Interested individuals can learn more about the competition and data access by visiting https://wsb.wharton.upenn.edu/wharton-data-competition/
 
-## Acknowledgments
+Acknowledgments
 
 This project was completed as a learning exercise and was taken part at the Wharton High School Data Science competition. Feedback and suggestions for improvement are welcome, mostly for discussion and personal interest.
