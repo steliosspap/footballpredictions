@@ -1,9 +1,5 @@
 # Football Predictions
 
-## About This Project
-
-This project was developed as part of the Wharton High School Data Science Competition(https://wsb.wharton.upenn.edu/wharton-data-competition/), organized by the Wharton Sports Analytics and Business Initiative. The competition provided teams with simulated soccer league data to develop predictive models for playoff outcomes. Our team focused on implementing a logistic regression model to predict match results based on regular-season performance metrics.
-
 ## Overview
 
 - Developed a logistic regression model using `scikit-learn`
