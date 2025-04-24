@@ -1,6 +1,6 @@
 # Football Predictions
 
-This project implements a logistic regression model to predict match outcomes in a fantasy football (soccer) league. The dataset consists of 400 observations and 8 features. Despite the relatively small size, the model achieved an accuracy exceeding 70%. This project serves as an early exploration of binary classification and predictive modeling.
+This project was one of my first I did at 16 years old and it implements a logistic regression model to predict match outcomes in a fantasy football (soccer) league. The dataset consists of 400 observations and 8 features. Despite the relatively small size, the model achieved an accuracy exceeding 70%. This project serves as an early exploration of binary classification and predictive modeling.
 
 ## Overview
 
