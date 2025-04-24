@@ -1,0 +1,28 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.xlsx
+*.h5
+*.pkl
+*.parquet
+*.db
+*.sqlite
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# MacOS
+.DS_Store
+
+# VSCode / PyCharm
+.vscode/
+.idea/
