@@ -1,0 +1,61 @@
+# Football Predictions
+
+This project implements a logistic regression model to predict match outcomes in a fantasy football (soccer) league. The dataset consists of 400 observations and 8 features. Despite the relatively small size, the model achieved an accuracy exceeding 70%. This project serves as an early exploration of binary classification and predictive modeling.
+
+## Overview
+
+- Developed a logistic regression model using `scikit-learn`
+- Applied standard preprocessing and evaluation techniques
+- Organized in a single Python script for clarity and accessibility
+- Evaluated using accuracy as the primary performance metric
+
+## File Structure
+
+- `football_predictions.py` – main script containing data preprocessing, model training, and prediction logic
+
+> Note: For clarity and professionalism, it is recommended to rename the current file from `TheFinalCopy (2).py` to `football_predictions.py`.
+
+## Example Output
+
+```
+Accuracy: 72.4%
+Predictions on test data:
+[1, 0, 1, 1, 0, ...]
+```
+
+## Getting Started
+
+To replicate this project:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/steliosspap/footballpredictions.git
+   cd footballpredictions
+   ```
+
+2. Install the required Python packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Execute the script:
+   ```bash
+   python football_predictions.py
+   ```
+
+## Learning Outcomes
+
+This was one of my first experiences developing a machine learning model from scratch. Key takeaways include:
+
+- Fundamentals of data preparation and feature selection
+- Implementation of logistic regression for binary classification
+- Basic performance evaluation using test accuracy
+- Limitations and potential areas for future improvement
+
+## License
+
+This project is made available under the MIT License. See the `LICENSE` file for details.
+
+## Acknowledgments
+
+This project was completed independently as a learning exercise. Feedback and suggestions for improvement are welcome.
