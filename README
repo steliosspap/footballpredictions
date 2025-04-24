@@ -1,6 +1,8 @@
 # Football Predictions
 
-This project was one of my first I did at 16 years old and it implements a logistic regression model to predict match outcomes in a fantasy football (soccer) league. The dataset consists of 400 observations and 8 features. Despite the relatively small size, the model achieved an accuracy exceeding 70%. This project serves as an early exploration of binary classification and predictive modeling.
+## About This Project
+
+This project was developed as part of the Wharton High School Data Science Competition(https://wsb.wharton.upenn.edu/wharton-data-competition/), organized by the Wharton Sports Analytics and Business Initiative. The competition provided teams with simulated soccer league data to develop predictive models for playoff outcomes. Our team focused on implementing a logistic regression model to predict match results based on regular-season performance metrics.
 
 ## Overview
 
@@ -54,7 +56,11 @@ This was one of my first experiences developing a machine learning model from sc
 
 ## License
 
-This project is made available under the MIT License. See the `LICENSE` file for details.
+This repository is licensed under the MIT License. Please note that this license applies only to the code in this repository and does not extend to the dataset provided by the Wharton High School Data Science Competition.
+
+## Data Access
+
+The dataset used in this project was provided by the Wharton High School Data Science Competition. Due to usage restrictions, the full dataset is not included in this repository. Interested individuals can learn more about the competition and data access by visiting https://wsb.wharton.upenn.edu/wharton-data-competition/
 
 ## Acknowledgments
 
